@@ -87,7 +87,7 @@
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-FE7A16?style=plastic&logo=jupyter&logoColor=white"" /></a>
   &emsp;
-    <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/-RStudio-FE7A16?style=plastic&logo=R&logoColor=white"" /></a>
+    <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/-RStudio-%231877F2?style=plastic&logo=R&logoColor=white"" /></a>
 </p>
 
 
