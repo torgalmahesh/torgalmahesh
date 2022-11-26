@@ -21,11 +21,6 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=torgalmahesh&theme=algolia" alt="torgalmahesh" /></p>
-
-<br>
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
