@@ -85,7 +85,9 @@
   &emsp;
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/anaconda-original.svg"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/-Jupyter-FE7A16?style=plastic&logo=jupyter&logoColor=white"" /></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-FE7A16?style=plastic&logo=jupyter&logoColor=white"" /></a>
+  &emsp;
+    <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/-R-Studio-FE7A16?style=plastic&logo=R&logoColor=white"" /></a>
 </p>
 
 
